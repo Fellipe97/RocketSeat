@@ -1,4 +1,4 @@
-        - Todas as las serão realizadas no visual code;
+Todas as aulas serão realizadas no visual code;
 
 
 Estou criando o documento bem detalhado para que qualquer pessoa consiga
