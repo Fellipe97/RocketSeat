@@ -1,0 +1,180 @@
+        - Todas as las serão realizadas no visual code;
+
+
+Estou criando o documento bem detalhado para que qualquer pessoa consiga
+aprender, mesmo a pessoa mais leiga no assunto.
+
+
+
+                                    MODULO 1 - CONCEITOS
+
+
+===================================== Aula 1 ==================================================
+
+Para podermos visualizar imediadamente o html que estamos fazendo sem a necessidade
+de ir pro navegador, vamos instalar uma extensão.
+
+( V I S U A L    C O D E ) - Instalação de extenção
+Ao lado esquerdo você vai observar um ícone formado por 4 quadrados, ao clicar
+nele vai se deparar em uma barra de pesquisa, digite "html preview", clique 
+na primeira opção e certifique-se se possui a maior quantidade de download e instale.
+
+
+- Como criar uma pasta no visual code
+                - Ao lado esquerdo, clique no primeiro ícone. Vai aparecer um botão de Add folder, escolhe a pasta
+                onde ficará salvo nossas aulas. Recomendo escolher/criar uma pasta que não tenha arquivo dentro dela.
+                - Outra opção, usar o explorador de arquivo do windows, criar uma pasta aonde você quer salvar seu projeto
+                e arrastar essa pasta pro visual code.
+                - Outra opção, porém avançada, navegar pelo cmd e acessar a pasta(preferencia vazia) que você queira salvar o 
+                projeto e executar esse comando "code .", se quiser se aprofundar nessa opção, recomendo pesquisar
+                no google "como abrir uma pasta no visual code a partir do cmd".
+
+
+-Criando nosso primeiro arquivo
+Quando escolher a pasta que será salvo nossos aquivos, vai aparecer o nome da pasta que foi escolhido,
+passando o mouse ao lado esquerdo ou encima do nome da pasta vai aparecer alguns icones ao lado 
+do nome da pasta, clique no icone que é uma folha com um + "Novo arquivo". Ao clicar vai aparecer
+o arquivo pedindo para ser nomeado, logo digite "index.html" e aperte enter. Para conseguir editar
+o arquivo criado basta clicar nele.
+
+Obs's: 
+    - ".html" é o formado do arquivo criado, logo, não poderá ser outro nome
+    - "index", você pode colocar qualquer outro nome desde que não tenha 
+    acentuação ou espaço, por convenção, coloque index msm
+
+-Salvamento automatico
+No canto superior a esquerda, vai ter uma opção escrito "Arquivo", clique nele e vai aparecer um
+menu, se na opção "Salvamento Automatico" não estiver com um OK marcado clique nele, se já estiver
+clique fora
+
+-Primeiro teste usando Hrml preview
+No arquivo html, digite "Hello, world!" para não ficar com azar kkkk 
+e logo após isso clique as teclas "ctrl" + "shift" + "v" vai abrir o 
+html preview e vai conseguir vê toda a mudança lá.
+
+-Pode clicar no comentarios.html e vê os meus testes.
+
+================================================================================================
+
+
+
+
+================================= Aula 2 - Comentários =========================================
+
+Comentários em programação é muito importante, pois com eles você pode informar para outros
+programadores informações importantes para compreender o código melhor, serve até mesmo 
+para saber aonde você parou ou desconsiderar alguma parte do código para fim de teste.
+
+Sabendo disso, vamos aprender a comentar no html, uhuu vamos começar a fazer alguma consiga
+de legal kkkkkk.
+
+Comentário no html:
+    <!-- Primeiro Comentário, uhuuu! -->
+Repare que se você escrever esse comentário no index.html e usar o html preview vai perceber
+que ele não aparece.
+        Ahhh, então fiz errado? Não, os cometários nãro seram vistos no preview, você pode entender
+    que eles são apensa ignorados.
+
+
+================================================================================================
+
+
+
+
+-- Daqui pra frente irei utilizar o cometário no código para vocês começarem a observar com mais
+atenção os comentários dos códigos kkk
+
+
+
+
+================================= Aula 3 - Atributos ===========================================
+código usado:
+        atributos.html
+================================================================================================
+
+
+
+
+======================== Aula 4 - Anatomia das tags e Atributos globais ========================
+código usado:
+        atributosGlobais.html
+================================================================================================
+
+
+
+
+==================================== Aula 5 - Aninhamento de tags ==============================
+código usado:
+        aninhamentoDeTags.html
+================================================================================================
+
+
+PLUS : Testar o arquivo "titulo.html". 
+
+
+================================== Desafio 1 ===============================================
+
+Antes de você vê o código quero que você tente fazer isso:
+
+    Escrever 2 parágrafos, dando ênfase e importância para algumas palavras, e adicione um 
+    link de saiba mais em alguma palavra.
+    - use a tag "em" para ênfase;
+    - use a tag "strong" para importância;
+    - o link pode levar para o google.
+    Faça essa tarefa sem vê o gabarito!!
+
+código usado:
+        desafio1.html
+================================================================================================
+
+
+
+
+==================================== Aula 6 - Caracteres Reservados ============================
+código usado:
+        caracteresReservados.html
+================================================================================================
+
+
+
+
+==================================== Aula 7 - Anatomia do html ================================
+
+Para facilitar na criação do html = irei ensinar comoo criar um escopo, um esqueleto por
+padrão de um html. Apóz criar o arquivo htm, digite "!" e logo após aperte enter você vai
+vê uma mágica acontecer kkkk, o codigo será preenchido automaticamente, um esqueleto básico de
+html5, depois disso fique a vontade de editar-lo.
+
+Agora para você conhecer de fato a anatomia, o que significa cada coisa que foi preenchida 
+automaticamente, entre no meu código que foi usado.
+
+código usado:
+        caracteresReservados.html
+
+================================================================================================
+
+
+
+--------------------------------------------------------------------------------------------
+
+                     Com isso fechamos o modulo 1, sobre conceitos.
+
+                        Parabéns por ter chegado até aqui !!! 
+
+              Por favor, compartilhe para quem precise e vampos pro modulo 2!!
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
+                                MODULO 2 - TRABALHANDO COM ELEMENTOS
+
+
+==================================== Aula 1 - Semântica ========================================
+
+código usado:
+        atributos.html
+================================================================================================
