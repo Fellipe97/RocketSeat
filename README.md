@@ -1,6 +1,6 @@
 # R O C K E T S E A T
 
-Uma trilha completa que aprendi estudando na plataforma da rocketseat.
+Uma trilha completa com tudo que aprendi na plataforma da Rocketseat.
 
 <h1>HTML</h1>
 <ul>
