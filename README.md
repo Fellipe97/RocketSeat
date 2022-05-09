@@ -4,7 +4,7 @@ Uma trilha completa com tudo que aprendi na plataforma da Rocketseat.
 
 <h1>HTML</h1>
 <ul>
-        <li>Trilha Fundamentar - Guia Estelar</li>
+        <li>Trilha Fundamentar - Guia Estelar de HTML (CONCLUÍDO)</li>
 </ul>
 
 

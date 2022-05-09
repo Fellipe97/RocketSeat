@@ -299,3 +299,205 @@ código usado:
         tagA3.html
         
 ================================================================================================
+
+
+
+
+==================================== Aula 4 - Caminhos e Urls ===================================
+
+código usado:
+        caminhosUrls.html
+        
+================================================================================================
+
+
+
+
+========================== Aula 5 - Como navegar pelos diretórios ==============================
+
+código usado:
+        navegarDiretorios.html
+        
+================================================================================================
+
+
+
+
+========================== Aula 6 - Caminho relativo vs absoluto ==============================
+
+código usado:
+        relativoXabsoluto.html
+        
+================================================================================================
+
+
+
+
+==========================================  Exercicio  =========================================
+
+Crie navegação entre arquivos
+        
+        Crie um projeto contendo
+
+                2 arquivos no diretório principal (index.html e contact.html)
+
+                1 diretório de nome: files
+                        dentro desse diretório, adicione 2 imagens da sua preferencia e
+                        1 arquivo de nome imagens.html, que irá listar as imagens
+
+        
+        Dentro de cada arquivo .html, você deverá colocar:
+                1- Menu de navegação com uma lista <li><li/> não ordenada <ul> </ul>
+                2- Título <h1> </h1> da página
+                3- Um ou mais parágrafos <p> </p> com informações da página
+
+
+        Navegação
+                Para o menu de navegação, use a tag <nav> </nav> 
+                e coloque a lista não ordenada como conteúdo da tag
+
+                O conteúdo de cada item da lista <li></li> deverá conter um link <a href=""> </a>
+
+                O conteúdo do link deverá ser o nome da página .html que existe no projeto, sendo 
+                que para cada página, iremos ter um link.
+
+                Ao clicarmos no link, devremos ser direcionado à página clicada
+        
+
+        Página images.html 
+                Como conteúdo desta página, além do que foi pedido, adicionar também
+                        1- As duas imagens que você tem na pasta
+                        2- Use a tag p para colocar a tag img
+
+                obs: imagens de tamanho muito grande, poderão não se adaptar bem, mas não se 
+                preocupe agora, pois logoo aprenderemos como melhorar isso.
+        
+        Página contact.html
+                Como conteúdo desta página, além do que foi pedido, adicionar também
+                        1- Colocar suas informações de contato: email e telefone;
+                        2- Cada informação deverá estar dentro de um link que quando
+                        clicado, irá abrir a respectiva informação de contato (email ou telefone)
+
+        Dicas
+                - Para o conteúdo da tag <p> </p>, se desejar, poderá fazer o uso do atalho lorem
+                que existe no visual studio code.
+                Para isso, digite lorem e em seguida aprte tab.
+                Atenção: em alguns computadores isso pode não funcionar, portando, não se atenha
+                a isso e continue o exercicio sem essa dica
+
+
+ --------------------------------------------------------------------------------------------------------
+|                                                                                                        |
+|        Tente bastante antes de olhar para o gabarito pois você tem capacidade de fazer sozinho!!       |    
+|        Confio no seu pontencial!!                                                                      |
+|                                                                                                        |
+ --------------------------------------------------------------------------------------------------------
+
+
+o gabarito está na pasta:
+        modulo3-exercicio
+
+
+Obs: Tem outras maneiras de realizar esse desafio, qualquer dúvida entre em contato!
+        
+================================================================================================
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+                     Com isso fechamos o modulo 3, sobre trabalhando com elementos.
+
+                        Parabéns por ter chegado até aqui !!! 
+
+              Por favor, compartilhe para quem precise e vampos pro modulo 4!!
+
+-------------------------------------------------------------------------------------------
+
+
+
+                                MODULO 4 - Tabelas
+
+
+=================================== Aula 1 - Tabela básica =====================================
+
+código usado:
+        tabela.html
+        
+================================================================================================
+
+
+
+
+================================= Aula 2 - Organizando tabela ==================================
+
+código usado:
+        organizandoTabela.html
+        
+================================================================================================
+
+
+
+
+=================================== Aula 3 - Tabela complexa ===================================
+
+código usado:
+        tabelaComplexa.html
+        
+================================================================================================
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+                     Com isso fechamos o modulo 4, sobre trabalhando com elementos.
+
+                        Parabéns por ter chegado até aqui !!! 
+
+              Por favor, compartilhe para quem precise e vampos pro modulo 5!!
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+                                MODULO 4 - Tabelas
+
+======================================== Aula 1 - Head =========================================
+
+código usado:
+        head.html
+        
+================================================================================================
+
+
+
+
+======================================== Aula 2 - Meta =========================================
+
+código usado:
+        meta.html
+        
+================================================================================================
+
+
+
+
+======================================== Aula 3 - Favicon ======================================
+
+código usado:
+        favIcon.html
+        
+================================================================================================
+
+
+
+
+======================================= Aula 4 - Meta SEO ======================================
+
+código usado:
+        metaSEO.html
+        
+================================================================================================

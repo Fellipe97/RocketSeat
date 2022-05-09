@@ -26,14 +26,31 @@ Todo material HTML que aprendi com a Rocketseat. Qualquer dúvida entre em conta
         <li>Elementos genéricos</li>
 </ol>
 
-<h1>Modulo 2 - Trabalhando com elementos </h1>
+<h1>Modulo 3 - Links </h1>
 <ol>
         <li>Conhecendo a tag âncora</li>
         <li>Utilizando tag âncora</li>
         <li>Conteúdo dentro de elemento a</li>
+        <li>Caminhos e Urls</li>
+        <li>Como navegar pelos diretórios</li>
+        <li>Caminho relativo x absoluto</li>
+        <li>Exercicio</li> 
 </ol>
 
+<h1>Modulo 4 - Tabelas </h1>
+<ol>
+        <li>Tabela básica</li>
+        <li>Organizando tabela</li>
+        <li>Tabela Complexa</li>
+</ol>
 
+<h1>Modulo 5 - Cabeçalho </h1>
+<ol>
+        <li>Head</li>
+        <li>Meta</li>
+        <li>Favico</li>
+        <li>Meta Seo</li>
+</ol>
 
 
 
