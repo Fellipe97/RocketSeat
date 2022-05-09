@@ -11,7 +11,7 @@ Uma trilha completa com tudo que aprendi na plataforma da Rocketseat.
 
 <h1>CSS</h1>
 <ol>
-        <li>Guia estelar de CSS</li>
+        <li>Guia estelar de CSS (EM ANDAMENTO)</li>
 </ol>
 
 <br><br>
